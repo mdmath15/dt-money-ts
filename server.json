@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-11-10T20:55:33.596Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-11-10T20:30:33.596Z"
+    },
+    {
+      "id": 3,
+      "description": "Plano de saúde",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 330,
+      "createdAt": "2022-11-08T16:30:33.596Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-11T22:17:47.914Z",
+      "id": 4
+    },
+    {
+      "description": "Video game",
+      "price": 5000,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2022-11-11T22:30:30.685Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "price": 100000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-11T22:31:04.658Z",
+      "id": 6
+    }
+  ]
+}
